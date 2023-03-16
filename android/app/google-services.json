@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002272576444",
+    "project_id": "questglobalassesment",
+    "storage_bucket": "questglobalassesment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002272576444:android:243bda0e5dd346790c51b9",
+        "android_client_info": {
+          "package_name": "com.example.questglobal_assesment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002272576444-so1gea173iq9cg8kva10nsk93cajcpbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQPHIJy5OWVtvWw5OH4JPRCSbDfWk0B_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002272576444-so1gea173iq9cg8kva10nsk93cajcpbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
